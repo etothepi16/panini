@@ -1,0 +1,18 @@
+{
+  "name": "panini",
+  "author": "Paul McDowell <paulmcdowell18@gmail.com> (https://github.com/etothepi16)",
+  "version": "0.0.1",
+  "description": "Simple TypeScript module for efficient representation and manipulation of phonemes.",
+  "keywords": [
+    "panini",
+    "phonetics",
+    "phonemes",
+    "linguistics"
+  ],
+  "typings": "./panini.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etothepi16/panini"
+  },
+  "license": "GPL-3.0-or-later"
+}
