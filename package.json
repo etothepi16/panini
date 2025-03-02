@@ -10,7 +10,7 @@
     "linguistics",
     "phonology"
   ],
-  "typings": "./panini.d.ts",
+  "types": "./panini.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/etothepi16/panini"
